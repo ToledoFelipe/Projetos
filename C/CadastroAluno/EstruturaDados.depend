@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554159279 source:c:\users\fefes\desktop\estrutura de dados\estruturadados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
