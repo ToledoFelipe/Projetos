@@ -1,0 +1,1 @@
+Todos os projetos são feitos utilizando a IDE codeblocks, a premissa de cada projeto está no escopo do código final, cujo a formatação do arquivo termina em arquivo.c (código)
